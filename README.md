@@ -1,5 +1,9 @@
 # wab75jarugula<br>
 I am learning to develop the web applications.<br>
-Heroku : <https://wab75jarugula.herokuapp.com/><br>
+Heroku :<br>
+<https://wab75jarugula.herokuapp.com/><br>
+<https://wab75jarugula.herokuapp.com/mobilePhones><br>
+<http://localhost:5000/stars?rows=3&cols=4><br>
+<https://wab75jarugula.herokuapp.com/slot><br>
 Class : MobilePhone <br>
 Attributes: brand,model,cost,color
